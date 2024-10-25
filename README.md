@@ -162,3 +162,7 @@ The complete Dependency-Check report is available [here](assets/reports/Dependen
 ---
 
 ## 📜 License
+
+This project is licensed under the MIT License. You are free to use, modify, and distribute this software as long as you include the original license.
+
+For more details, see the [LICENSE](./LICENSE) file.
