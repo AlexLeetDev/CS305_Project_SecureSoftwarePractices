@@ -91,7 +91,7 @@ As part of the project, a static analysis was performed using **OWASP Dependency
 | `jackson-databind-2.10.2`   | High      | CVE-2020-36518  | Suppressed (false positive) |
 | `spring-core-5.2.3.RELEASE` | Critical  | Multiple CVEs   | Patched               |
 
-The complete Dependency-Check report is available [here](assets/reports/Dependency-Check-Report.pdf).
+The complete Dependency-Check report is available [here](https://github.com/AlexLeetDev/CS305_Project_SecureSoftwarePractices/blob/main/assets/reports/Dependency-Check%20Report.pdf).
 
 ---
 
@@ -165,4 +165,4 @@ The complete Dependency-Check report is available [here](assets/reports/Dependen
 
 This project is licensed under the MIT License. You are free to use, modify, and distribute this software as long as you include the original license.
 
-For more details, see the [LICENSE](./LICENSE) file.
+For more details, see the [LICENSE](LICENSE) file.
